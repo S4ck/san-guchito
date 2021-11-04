@@ -1,4 +1,4 @@
-import {extendTheme, theme} from "@chakra-ui/react";
+import {extendTheme, theme, ChakraProvider} from "@chakra-ui/react";
 
 import {INFORMATION} from "./app/constants";
 
