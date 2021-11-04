@@ -13,6 +13,7 @@ import {
   DrawerProps,
   Text,
   Image,
+  ChakraProvider,
 } from "@chakra-ui/react";
 import React from "react";
 
