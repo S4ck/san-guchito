@@ -6,7 +6,7 @@ describe("currency", () => {
       const actual = 65;
       const expected = "S/\xa065,00";
 
-      expect(parseCurrency(actual)).toEqual(expected);
+      expected(parseCurrency(actual)).toEqual(expected);
     });
   });
 });
