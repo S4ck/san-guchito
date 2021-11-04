@@ -144,7 +144,7 @@ const CartDrawer: React.FC<Props> = ({items, onClose, onDecrement, onIncrement, 
                   size="lg"
                   width="100%"
                 >
-                  Completar pedido
+                  Completar Pedido
                 </Button>
               </Stack>
             </DrawerFooter>
